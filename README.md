@@ -1,2 +1,2 @@
 # linux-administrator
-Some scripts
+Some scripts for easy linux administration
